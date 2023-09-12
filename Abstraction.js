@@ -23,3 +23,6 @@ let emp1 = new Employee('Chioma', 300000, 30);
 emp1.getEmpDetails();
 emp1.monthlyBonus = 1000;
 emp1.calculateFinalSalary();
+
+
+123
